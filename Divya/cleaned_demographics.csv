@@ -1,4 +1,4 @@
-patient_id,age,gender,race,avg_sleep_hours,sleep_quality,sleep_disturbances_pct
+patient_id,age,gender,race,avg_sleep_duration_hrs,sleep_quality_score,sleep_disturbances_percentage
 HUPA0001P,34,Male,Other,6.3,4.5,80
 HUPA0002P,49,Male,Hispanic,6.6,4.4,40
 HUPA0003P,64,Male,Black,5.3,5.2,70
