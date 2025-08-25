@@ -1,20 +1,3 @@
-# Ignore Jupyter notebook checkpoints
-.ipynb_checkpoints/
-# Ignore Jupyter notebook checkpoints
-.ipynb_checkpoints/
-
-# Ignore temporary and log files
-*.tmp
-*.log
-
-# Ignore Python cache files
-__pycache__/
-*.pyc
-
-# Ignore temporary and log files
-*.tmp
-*.log
-
-# Ignore Python cache files
-__pycache__/
-*.pyc
+.Trash-0
+.ipynb_checkpoints
+.virtual_documents
